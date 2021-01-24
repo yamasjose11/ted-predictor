@@ -1,5 +1,4 @@
-# ted-predictor
-
+# Ted Predictor Title
 
 # Introduction
 
