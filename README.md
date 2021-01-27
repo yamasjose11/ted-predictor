@@ -22,11 +22,9 @@ I chose to vectorized all the transcripts using TF-IDF Vectorizer and went with 
 # Results and Insights
 
 <!-- (Baseline Model) -->
-
 When letting the model predict for itself, the biggest take away was that the model really struggled trying to classify the True Positives for Class 0, the Non-Favorable bunch.
 
 <!-- (Feature Importances)-->
-
 As I took on the challenge to improve the model I knew my main focus was to improve the recall score for the True Positives. I started by looking into my feature importances and trying to get an insight of the use of words that held more value in helping the model classify one from the other. 
 For my feature importances in my first model I was surprised to see how many bland type of words were labeled as important, that I felt didn't hold any true meaning in classifying, so through an iterative process added to the text processing steps. After doing so I also added lemmatizing to the words to see if some features would converge using their root words. After doing so I saw some more interesting words pop up that seemed to have more linguistic meaning such as “understanding” instead of “say” and many more.
 
@@ -37,8 +35,6 @@ For my feature importances in my first model I was surprised to see how many bla
 
 
 <!-- (Tuned Model) -->
-
-
 After further investigation I also handled the features by implementing unigrams in conjunction to some bigrams and realized in order to improve my model I can use both for better classification. Some really interesting insights when implementing bigrams was seeing some words like “Health Care” and “Every  Day”.
 
 <!-- Feature Importance EDA 2 -->
