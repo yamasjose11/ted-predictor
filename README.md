@@ -12,7 +12,7 @@ My dataset contains over 2,500 official Ted Talk Transcripts up to late 2017. Wi
 
 <!-- Target Split EDA -->
 <p align="center">
-  <img width="400" height="225" src="https://github.com/yamasjose11/ted-predictor/blob/main/images/target_splits.png">
+  <img width="450" height="225" src="https://github.com/yamasjose11/ted-predictor/blob/main/images/target_splits.png">
 </p>
 
 # The Approach (TF-IDF and Random Forest)
