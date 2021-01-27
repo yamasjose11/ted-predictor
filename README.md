@@ -33,7 +33,7 @@ For my feature importances in my first model I was surprised to see how many bla
 
 <!-- Feature Importance EDA 1 -->
 <p align="center">
-  <img width="800" height="450" src="https://github.com/yamasjose11/ted-predictor/blob/main/images/feat_imp_eda1.png">
+  <img width="800" height="500" src="https://github.com/yamasjose11/ted-predictor/blob/main/images/feat_imp_eda1.png">
 </p>
 
 
@@ -41,6 +41,11 @@ For my feature importances in my first model I was surprised to see how many bla
 
 
 After further investigation I also handled the features by implementing unigrams in conjunction to some bigrams and realized in order to improve my model I can use both for better classification. Some really interesting insights when implementing bigrams was seeing some words like “Health Care” and “Every  Day”.
+
+<!-- Feature Importance EDA 2 -->
+<p align="center">
+  <img width="800" height="500" src="https://github.com/yamasjose11/ted-predictor/blob/main/images/feat_imp_eda2.png">
+</p>
 
 So after getting more insight in the feature importances I decided to plot a ROC curve and see how the performance compared between the two models from 0 to 100% -  the first model being the baseline model and the second being the tuned model. After plotting the ROC curve I got more insight in where I could further tune the model by adding a threshold value to help me improve the True Positive values.
 
