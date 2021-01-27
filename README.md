@@ -51,14 +51,14 @@ So after getting more insight in the feature importances I decided to plot a ROC
 
 <!-- ROC Curve EDA -->
 <p align="center">
-  <img width="800" height="450" src="https://github.com/yamasjose11/ted-predictor/blob/main/images/base_tuned_rocauc2.png">
+  <img width="400" height="250" src="https://github.com/yamasjose11/ted-predictor/blob/main/images/base_tuned_rocauc2.png">
 </p>
 
 With the implementation of n-grams and threshold values I was able to get a significant increase in performance and was able to increase the True Positive Values. 
 
 <!-- Project Result EDA -->
 <p align="center">
-  <img width="800" height="450" src="https://github.com/yamasjose11/ted-predictor/blob/main/images/project_results.png">
+  <img width="800" height="450" src="https://github.com/yamasjose11/ted-predictor/blob/main/images/project_results2.png">
 </p>
 
 # Future Development
