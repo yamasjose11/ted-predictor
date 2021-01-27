@@ -21,9 +21,11 @@ I chose to vectorized all the transcripts using TF-IDF Vectorizer and went with 
 (Baseline Model)
 (Feature Importances)
 (Tuned Model)
+
+
 <!-- Initial EDA 1 -->
 <p align="center">
-  <img width="850" height="850" src="https://github.com/yamasjose11/ted-predictor/blob/main/images/project_results.png">
+  <img width="850" height="500" src="https://github.com/yamasjose11/ted-predictor/blob/main/images/project_results.png">
 </p>
 <!-- [Title Image](https://github.com/yamasjose11/ted-predictor/blob/main/images/project_results.png) -->
 
