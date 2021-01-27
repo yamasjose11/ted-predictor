@@ -10,7 +10,7 @@ My motivation for this project is woven in my underlying passion for learning an
 
 My dataset contains over 2,500 official Ted Talk Transcripts up to late 2017. With this, my agenda consisted of using all of the full TED Talk transcripts and the views each one received for my Natural Language Processing (NLP) Pipeline. Viral shows made it hard to use the mean as a target split and cause inbalanced issues. So I decided to make a relative split at 1 million views where this would account for the bulk majority of the views and combat any imbalanced issues. 
 
-(target_split picture)
+![Title Image](https://github.com/yamasjose11/ted-predictor/blob/main/images/target_splits.png)
 
 # The Approach (TF-IDF and Random Forest)
 
@@ -18,8 +18,11 @@ I chose to vectorized all the transcripts using TF-IDF Vectorizer and went with 
 
 # The Results and Insights (Feature Importance)
 
+(Baseline Model)
+(Feature Importances)
+(Tuned Model)
 
-
+![Title Image](https://github.com/yamasjose11/ted-predictor/blob/main/images/project_results.png)
 
 # Future Development
 
