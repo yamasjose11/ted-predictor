@@ -1,6 +1,6 @@
 # Ted Predictor Title
 
-[Title Image](https://github.com/yamasjose11/ted-predictor/blob/main/images/ted1.jpg)
+![Title Image](https://github.com/yamasjose11/ted-predictor/blob/main/images/ted1.jpg)
 
 # Introduction
 
