@@ -65,5 +65,5 @@ Temple, O., 2016. TED Talks- Complete List - dataset by owentemple. [online] Dat
 
 <!-- (QR Code) -->
 <p align="center">
-  <img width="800" height="450" src="https://github.com/yamasjose11/ted-predictor/blob/main/images/project_results.png">
+  <img width="250" height="125" src="https://github.com/yamasjose11/ted-predictor/blob/main/images/Jose_YamasQR.png">
 </p>
