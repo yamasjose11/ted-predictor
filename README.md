@@ -27,7 +27,7 @@ I chose to vectorized all the transcripts using TF-IDF Vectorizer and went with 
 
 <!-- Initial EDA 1 -->
 <p align="center">
-  <img width="850" height="400" src="https://github.com/yamasjose11/ted-predictor/blob/main/images/project_results.png">
+  <img width="800" height="450" src="https://github.com/yamasjose11/ted-predictor/blob/main/images/project_results.png">
 </p>
 <!-- [Title Image](https://github.com/yamasjose11/ted-predictor/blob/main/images/project_results.png) -->
 
