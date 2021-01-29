@@ -53,7 +53,7 @@ With the implementation of n-grams and threshold values I was able to get a sign
 
 <!-- Project Result EDA -->
 <p align="center">
-  <img width="900" height="400" src="https://github.com/yamasjose11/ted-predictor/blob/main/images/project_results2.png">
+  <img width="900" height="375" src="https://github.com/yamasjose11/ted-predictor/blob/main/images/project_results2.png">
 </p>
 
 # Future Development
